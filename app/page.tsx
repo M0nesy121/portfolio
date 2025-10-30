@@ -35,6 +35,9 @@ export default function Home() {
         <p className="mt-2 text-sm text-gray-600">
           Email: chengbokai96@gmail.com · Open to remote/onsite internships.
         </p>
+
+        <p>Last updated: 2025-10-29</p>
+
       </section>
     </main>
   );
